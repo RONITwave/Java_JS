@@ -15,4 +15,5 @@ console.log(Chotu.concat(" bestFriend name is ", frnd , " OK")) // it will conca
 let frnd2 = "    aishwariya        "
 console.log(frnd2.trim()) // it will remove the extra spaces from the string
 console.log(typeof frnd2)
-console.log(Number.parseInt(frnd2))
+console.log(Number.parseInt(frnd2)) // it will convert the string into number and return the integer value of the string
+                             // NaN means Not a Number
